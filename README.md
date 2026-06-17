@@ -1,4 +1,4 @@
-# smart-qualidade
+# Smar-Qualidade
 smart-qualidade
 # Criar estrutura de pastas
 mkdir -p backend/src/{database,api/{routes,middleware},models,services,utils,tests}
